@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.name        = "activestorage-dummy"
   s.version     = ActiveStorageDummy::VERSION
   s.date        = '2018-11-05'
-  s.homepage    = 'https://github.com/huacnlee/activestorage-dummy'
+  s.homepage    = 'https://github.com/kwent/activestorage-dummy'
   s.summary     = "Dummy placeholders as an Active Storage service"
   s.description = "Dummy placeholders as an Active Storage service."
   s.authors     = ["Quentin Rousseau"]
